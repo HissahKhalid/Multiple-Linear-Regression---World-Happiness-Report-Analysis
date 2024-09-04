@@ -1,0 +1,2 @@
+# Multiple-Linear-Regression---World-Happiness-Report-Analysis
+ a Multiple Linear Regression analysis on the World Happiness Report dataset. The goal is to explore the relationships between various independent variables (such as GDP per capita, social support, life expectancy) and a dependent variable (happiness score) to understand what factors contribute most significantly to the happiness of a nation.
